@@ -1,7 +1,11 @@
+import Banner from 'components/home/Banner';
+import Products from 'components/home/Products';
+
 const Home = () => {
   return (
     <div>
-      <h1>home</h1>
+      <Banner />
+      <Products />
     </div>
   );
 };
