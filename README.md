@@ -1,1 +1,7 @@
-#BAIGVALY IS AN E-COMMERCE WEBSITE.
+# BAIGVALY IS AN E-COMMERCE WEBSITE.
+## Technology
+
+    - React
+    - TypeScript
+    - Redux
+    - SCSS
